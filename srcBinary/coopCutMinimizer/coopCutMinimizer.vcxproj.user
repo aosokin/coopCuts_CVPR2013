@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LocalDebuggerCommandArguments>workdata/beeNew_cl10nd.bin workdata/beeNew_wts.bin workdata/beeNew_ugmmU.bin workdata/beeNew_myseg.bin workdata/beeNew_tempResult.bin 1.0 0.003 0.1 5 1</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LocalDebuggerCommandArguments>testdata\003_combcl10.bin testdata\003_comb_wts.bin testdata\003_combugmmU.bin testdata\003_comb_result.bin  1 0.003  0.1 5  2 1</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+</Project>
