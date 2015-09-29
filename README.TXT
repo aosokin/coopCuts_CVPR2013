@@ -20,14 +20,11 @@ This package also includes
 1) QPBO code:
 http://pub.ist.ac.at/~vnk/software/QPBO-v1.3.src.tar.gz
 V. Kolmogorov and C. Rother. "Minimizing non-submodular functions with graph cuts - a review". IEEE TPAMI, 29(7):1274-1279, July 2007.
-2) The alpha-expansion code for multi-label cuts:
-http://vision.csd.uwo.ca/code/gco-v3.0.zip
-Y. Boykov, O. Veksler, R. Zabih. "Efficient Approximate Energy Minimization via Graph Cuts". IEEE TPAMI, 20(12):1222-1239, Nov 2001.
-3) The initial algorithm for the cooperative cuts:
+2) The initial algorithm for the cooperative cuts:
 http://melodi.ee.washington.edu/~jegelka/cc/code/coopcode.zip
 S. Jegelka and J. Bilmes. "Submodularity beyond submodular energies: coupling 
 edges in graph cuts". CVPR, 2011. 
-4) Code for fitting Gaussian mixture models
+3) Code for fitting Gaussian mixture models
 http://www.calinon.ch/download/GMM-GMR-v2.0.zip
 Calinon, S. (2009) Robot Programming by Demonstration: A Probabilistic Approach. EPFL/CRC Press.
 Calinon, S., Guenter, F. and Billard, A. (2007) On Learning, Representing and Generalizing a Task in a Humanoid Robot. IEEE Transactions on Systems, Man and Cybernetics, Part B. 37:2, 286-298.
